@@ -22,6 +22,9 @@
 <div id="bannerContent" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
+  
+<div align="left">
+  
 ---
 
 ### :man_technologist: About Me :
@@ -35,8 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmmrafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmmrafael)
   
-
-  ---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <!-- https://github.com/devicons/devicon/tree/master/icons --> 
@@ -55,7 +57,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<!--
+
+</div> 
+ <!--
 **rmm-rafael/rmm-rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
