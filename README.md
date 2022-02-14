@@ -37,6 +37,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmmrafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmmrafael)
+
+---
+  
+### Dev Card :
+<a href="https://app.daily.dev/rmm_rafael"><img src="https://api.daily.dev/devcards/98e7e0d6852442e58b06de010ba0addb.png?r=roj" width="300" alt="Rafael Miranda Moller's Dev Card"/></a> 
   
 ---
 
@@ -73,3 +78,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
