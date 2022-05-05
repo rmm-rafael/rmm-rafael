@@ -44,6 +44,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://app.daily.dev/rmm_rafael"><img src="https://api.daily.dev/devcards/98e7e0d6852442e58b06de010ba0addb.png?r=roj" width="300" alt="Rafael Miranda Moller's Dev Card"/></a> 
   
 ---
+  
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmm-rafael&show_icons=true&theme=dark&count_private=true)
+  
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <!-- https://github.com/devicons/devicon/tree/master/icons --> 
