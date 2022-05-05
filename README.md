@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
 ---
   
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmm-rafael&show_icons=true&theme=dark&count_private=true)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmm-rafael)
   
 ---
 
